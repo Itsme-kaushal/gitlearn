@@ -1,2 +1,5 @@
 first file to be commited
 adding more content
+
+creating conflicts
+to merge conflicts
