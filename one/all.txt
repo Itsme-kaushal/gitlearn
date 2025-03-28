@@ -3,3 +3,5 @@ adding more content
 
 
 adding more content to file one
+creating conflicts
+to merge conflicts
