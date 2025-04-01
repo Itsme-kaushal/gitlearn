@@ -9,3 +9,5 @@ fourth bug found and fixed
 fifth bug found and fixed
 
 another fix message for purple mode git 
+
+new message for purple mode git
